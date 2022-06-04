@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="sortList" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +58,9 @@
       <list>
         <item itemvalue="Application.zadanieSortirovki" />
         <item itemvalue="Application.Zadadie" />
+        <item itemvalue="Application.zadanieSortirovki" />
+        <item itemvalue="Application.Zadadie" />
+        <item itemvalue="Application.zadanieSortirovki" />
       </list>
     </recent_temporary>
   </component>

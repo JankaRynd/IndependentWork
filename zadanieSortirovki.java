@@ -21,18 +21,20 @@ public class zadanieSortirovki {
 
 
 
-            List<Integer> list = new ArrayList<>();
-            list.add(1968);
-            list.add(1994);
-            list.add(1991);
-            list.add(1989);
-            list.add(1995);
-            list.add(2022);
-            list.add(2020);
-            list.add(2015);
-            list.add(2019);
-            list.add(2012);
-            list.add(2009);
+            List<List<Integer>> list = new ArrayList<>();
+            List<Integer> d = new ArrayList<>();
+            d.add(1968);
+            d.add(1994);
+            d.add(1991);
+            d.add(1989);
+            d.add(1995);
+            d.add(2022);
+            d.add(2020);
+            d.add(2015);
+            d.add(2019);
+            d.add(2012);
+            d.add(2009);
+            list.add(d);
             System.out.print(list + " => ");
             Date start1 = new Date();
             Collections.sort( list );
