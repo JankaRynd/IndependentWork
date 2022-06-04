@@ -6,8 +6,16 @@ import java.util.Date;
 import java.util.List;
 
 public class zadanieSortirovki {
-        public static void main(String[] args) {
 
+
+    static <T> void print (T a ) {
+        System.out.println(a);
+
+
+    }
+        public static void main(String[] args) {
+        print("String");
+        print(new Integer(3));
             int[] data = {1968, 1994, 1991, 1989, 1995, 2022, 2020, 2015, 2019, 2012, 2009};
                 System.out.print(Arrays.toString(data) + " => ");
             Date start = new Date();
@@ -22,6 +30,7 @@ public class zadanieSortirovki {
 
 
             List<List<Integer>> list = new ArrayList<>();
+
             List<Integer> d = new ArrayList<>();
             d.add(1968);
             d.add(1994);
@@ -35,9 +44,14 @@ public class zadanieSortirovki {
             d.add(2012);
             d.add(2009);
             list.add(d);
+            for (Integer integer : d) {
+                System.out.println(integer);
+
+            }
+
             System.out.print(list + " => ");
             Date start1 = new Date();
-            Collections.sort( list );
+//            Collections.sort( list );
             Date end1 = new Date();
             System.out.println(list);
             System.out.println("date start " + start1.getTime());

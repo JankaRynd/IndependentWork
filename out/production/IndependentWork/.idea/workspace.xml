@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавлено сортировку с листом">
+      <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="sortList" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +58,9 @@
       <list>
         <item itemvalue="Application.zadanieSortirovki" />
         <item itemvalue="Application.Zadadie" />
+        <item itemvalue="Application.zadanieSortirovki" />
+        <item itemvalue="Application.Zadadie" />
+        <item itemvalue="Application.zadanieSortirovki" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654341526102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлено сортировку с листом">
+      <created>1654355810088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654355810088</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделала задание по сортировке ))))" />
     <MESSAGE value="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат" />
+    <MESSAGE value="Добавлено сортировку с листом" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено сортировку с листом" />
   </component>
 </project>
