@@ -19,8 +19,8 @@ public class zadanieSortirovki {
             int[] data = {1968, 1994, 1991, 1989, 1995, 2022, 2020, 2015, 2019, 2012, 2009};
                 System.out.print(Arrays.toString(data) + " => ");
             Date start = new Date();
-                zadanieSortirovki SelectionSorter = null;
-                SelectionSorter.sort(data);
+
+                zadanieSortirovki.sort(data);
             Date end = new Date();
                 System.out.println(Arrays.toString(data));
             System.out.println("date start " + start.getTime());

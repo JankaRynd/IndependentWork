@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавлено сортировку с листом">
+      <change afterPath="$PROJECT_DIR$/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPacostei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
@@ -16,13 +18,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sortList" />
+        <entry key="$PROJECT_DIR$" value="sortListNew" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +45,14 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/yanka/IdeaProjects/IndependentWork&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.zadanieSortirovki">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IndependentWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadadie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadadie" />
       <module name="IndependentWork" />
@@ -59,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.zadanieSortirovki" />
         <item itemvalue="Application.Zadadie" />
         <item itemvalue="Application.zadanieSortirovki" />
         <item itemvalue="Application.Zadadie" />
-        <item itemvalue="Application.zadanieSortirovki" />
       </list>
     </recent_temporary>
   </component>
