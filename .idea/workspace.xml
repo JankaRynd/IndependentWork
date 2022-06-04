@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
+    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Сделала задание по сортировке ))))">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654328319669</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сделала задание по сортировке ))))">
+      <created>1654335454665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654335454665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделала задание по сортировке ))))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделала задание по сортировке ))))" />
   </component>
 </project>

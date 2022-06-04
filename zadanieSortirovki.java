@@ -1,4 +1,4 @@
-import java.awt.*;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -15,19 +15,28 @@ public class zadanieSortirovki {
                     {10, 8, 3, 2, 9},
                     {1968, 1994, 1991, 1989, 1995, 2022, 2020, 2015, 2019, 2012, 2009},
             };
+
+            Date start = new Date();
+
+
+
             for (int[] arr : data) {
                 System.out.print(Arrays.toString(arr) + " => ");
                 zadanieSortirovki SelectionSorter = null;
                 SelectionSorter.sort(arr);
                 System.out.println(Arrays.toString(arr));
             }
-
-            List<Integer> list = new ArrayList<>();
-            Date start = new Date();
-            Collections.sort( list );
             Date end = new Date();
 
+            System.out.println("date start " + start.getTime());
+            System.out.println("date end " + end.getTime());
             System.out.println("Java sort time = " + (end.getTime() - start.getTime()));
+
+//            List<Integer> list = new ArrayList<>();
+//            Date start = new Date();
+//            Collections.sort( list );
+//            Date end = new Date();
+//            System.out.println("Java sort time = " + (end.getTime() - start.getTime()));
 
         }
 
