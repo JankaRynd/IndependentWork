@@ -8,35 +8,39 @@ import java.util.List;
 public class zadanieSortirovki {
         public static void main(String[] args) {
 
-            int[][] data = {
-                    {},
-                    {1},
-                    {28, 03, 24, 29},
-                    {10, 8, 3, 2, 9},
-                    {1968, 1994, 1991, 1989, 1995, 2022, 2020, 2015, 2019, 2012, 2009},
-            };
-
+            int[] data = {1968, 1994, 1991, 1989, 1995, 2022, 2020, 2015, 2019, 2012, 2009};
+                System.out.print(Arrays.toString(data) + " => ");
             Date start = new Date();
-
-
-
-            for (int[] arr : data) {
-                System.out.print(Arrays.toString(arr) + " => ");
                 zadanieSortirovki SelectionSorter = null;
-                SelectionSorter.sort(arr);
-                System.out.println(Arrays.toString(arr));
-            }
+                SelectionSorter.sort(data);
             Date end = new Date();
-
+                System.out.println(Arrays.toString(data));
             System.out.println("date start " + start.getTime());
             System.out.println("date end " + end.getTime());
             System.out.println("Java sort time = " + (end.getTime() - start.getTime()));
 
-//            List<Integer> list = new ArrayList<>();
-//            Date start = new Date();
-//            Collections.sort( list );
-//            Date end = new Date();
-//            System.out.println("Java sort time = " + (end.getTime() - start.getTime()));
+
+
+            List<Integer> list = new ArrayList<>();
+            list.add(1968);
+            list.add(1994);
+            list.add(1991);
+            list.add(1989);
+            list.add(1995);
+            list.add(2022);
+            list.add(2020);
+            list.add(2015);
+            list.add(2019);
+            list.add(2012);
+            list.add(2009);
+            System.out.print(list + " => ");
+            Date start1 = new Date();
+            Collections.sort( list );
+            Date end1 = new Date();
+            System.out.println(list);
+            System.out.println("date start " + start1.getTime());
+            System.out.println("date end " + end1.getTime());
+            System.out.println("Java sort time = " + (end1.getTime() - start1.getTime()));
 
         }
 

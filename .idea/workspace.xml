@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Сделала задание по сортировке ))))">
+    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
@@ -19,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654335454665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат">
+      <created>1654341526102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654341526102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +95,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -90,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделала задание по сортировке ))))" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделала задание по сортировке ))))" />
+    <MESSAGE value="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавила подсчет времени сортировки &#10;старт  и конец &#10;и результат" />
   </component>
 </project>
