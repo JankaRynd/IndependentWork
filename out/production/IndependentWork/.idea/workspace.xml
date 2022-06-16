@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="Добавлено сортировку с листом">
+    <list default="true" id="70e114d6-cb44-4c30-9380-fb91bf2e3334" name="Changes" comment="ListPacostei + public class Human + public class Main">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IgraVoprosi/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IgraVoprosi/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IgraVoprosi/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProverkaKoda/DooBee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/DVDPlayerTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/DogTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/DrumKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/DrumKitTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/EchoTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/TapeDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trenirovka/TapeDeskTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrenirovkaMovie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrenirovkaMovie/MovieTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/DelalaHuman/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListPacostei.java" beforeDir="false" afterPath="$PROJECT_DIR$/DelalaHuman/ListPacostei.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DelalaHuman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndependentWork/zadanieSortirovki.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadanieSortirovki.java" beforeDir="false" afterPath="$PROJECT_DIR$/zadanieSortirovki.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,31 +59,88 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/yanka/IdeaProjects/IndependentWork&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.zadanieSortirovki">
-    <configuration name="Zadadie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadadie" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="IgraVoprosi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DogTestDrive">
+    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trenirovka.DogTestDrive" />
       <module name="IndependentWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trenirovka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanieSortirovki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanieSortirovki" />
+    <configuration name="EchoTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trenirovka.EchoTestDrive" />
       <module name="IndependentWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trenirovka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trenirovka.DVDPlayerTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trenirovka.DVDPlayerTestDrive" />
+      <module name="IndependentWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trenirovka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trenirovka.DrumKitTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trenirovka.DrumKitTestDrive" />
+      <module name="IndependentWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trenirovka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trenirovka.TapeDeskTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trenirovka.TapeDeskTestDrive" />
+      <module name="IndependentWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trenirovka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadanieSortirovki" />
-        <item itemvalue="Application.Zadadie" />
-        <item itemvalue="Application.zadanieSortirovki" />
-        <item itemvalue="Application.Zadadie" />
-        <item itemvalue="Application.zadanieSortirovki" />
+        <item itemvalue="Application.DogTestDrive" />
+        <item itemvalue="Application.EchoTestDrive" />
+        <item itemvalue="Application.Trenirovka.DVDPlayerTestDrive" />
+        <item itemvalue="Application.Trenirovka.DrumKitTestDrive" />
+        <item itemvalue="Application.Trenirovka.TapeDeskTestDrive" />
       </list>
     </recent_temporary>
   </component>

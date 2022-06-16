@@ -1,3 +1,5 @@
+package DelalaHuman;
+
 public class Human {
 
     String name;

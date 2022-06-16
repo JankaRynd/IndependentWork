@@ -1,3 +1,5 @@
+package DelalaHuman;
+
 public enum ListPacostei {
     ПАКОСТЬ_1,
     ПАКОСТЬ_2,

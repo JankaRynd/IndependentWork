@@ -1,3 +1,8 @@
+package DelalaHuman;
+
+import DelalaHuman.Human;
+import DelalaHuman.ListPacostei;
+
 public class Main {
     public static void main(String[] args) {
 
